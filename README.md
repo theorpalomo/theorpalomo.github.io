@@ -16,7 +16,7 @@ Personal academic website, hosted at https://theorpalomo.github.io/ with GitHub 
 | `assets/icons.svg` | Institution, email, and CV icons below the portrait |
 | `assets/brazil.svg` | Brazil flag in the footer |
 
-This is plain HTML and CSS. It has no package installation, build step, tracking scripts, or external font dependency. The expandable abstract uses a native HTML `details` element and includes the paper's figure. Presentation lists remain visible.
+This is plain HTML and CSS. It has no package installation, build step, tracking scripts, or external font dependency. The expandable abstract uses a native HTML `details` element, with Figure 10 aligned to the right on wider screens and stacked below on phones. Its title matches the paper: “Effective Tax Rate by Income Groups, All Taxes.” Biography, abstract, and research paragraphs use justified alignment. Presentation lists remain visible.
 
 External website and paper links use `target="_blank" rel="noopener noreferrer"` to open in a new tab. Internal page, section, and CV links stay in the same tab; email links open the visitor's email application.
 
